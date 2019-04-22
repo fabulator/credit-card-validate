@@ -29,7 +29,7 @@
     "flow-bin": "^0.97.0",
     "flow-coverage-report": "^0.6.1",
     "jasmine-core": "^3.4.0",
-    "karma": "^4.0.1",
+    "karma": "^4.1.0",
     "karma-babel-preprocessor": "^7.0.0",
     "karma-commonjs": "^1.0.0",
     "karma-coverage": "^1.1.2",
