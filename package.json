@@ -39,7 +39,7 @@
     "phantomjs-prebuilt": "^2.1.16",
     "rollup": "^1.21.3",
     "rollup-plugin-babel": "^4.3.3",
-    "rollup-plugin-uglify": "^6.0.2"
+    "rollup-plugin-uglify": "^6.0.3"
   },
   "dependencies": {},
   "scripts": {
